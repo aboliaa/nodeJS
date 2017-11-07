@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboliaa/nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboliaa/nodeJS/issues"
+  },
+  "homepage": "https://github.com/aboliaa/nodeJS#readme"
+}
